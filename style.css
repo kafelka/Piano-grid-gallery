@@ -5,25 +5,7 @@ body {
   padding: 20px 40px;
   font-family: Georgia;
   background-color: #867334;
-  /* background-image: url(./image_body/body.jpg);
-  background-size: 350%;
-  background-repeat: no-repeat;
-  background-position: 8% 10%; */
 }
-
-/* @media screen and (min-width: 360px) and (max-width: 700px) {
-  body {
-    background-size: 350%;
-    background-position: 50% 10%;
-  }
-}
-@media screen and (min-width: 701px) and (max-width: 1025px) {
-  body {
-    background-size: 280%;
-    background-position: 8% 10%;
-  }
-} */
-
 h1 {
   display:flex;
   justify-content: center;
